@@ -1,0 +1,19 @@
+.section-footer {
+    padding: 68px 25px 30px 0;
+    text-align: center;
+    position: relative;
+    top: 28rem;
+    background-color: black;
+
+
+}
+.section-footer ul {
+    color: rgba(255, 255, 255, 0.734);
+    margin: -3.3rem auto -0.5rem auto;
+
+}
+.section-footer ul>li {
+    color: rgba(255, 255, 255, 0.734);
+    padding: 10px;
+    display: inline-grid;
+}
